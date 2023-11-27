@@ -117,6 +117,7 @@ th, td{
     border-style: solid;
     margin: 50px;
 
+    border-radius: 1px !important;
   }
 
 
